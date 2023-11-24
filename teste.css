@@ -1,11 +1,30 @@
 body{
-    background: rgb(29, 38, 56)
+    background: rgb(59, 99, 180)
 }
 .flex-container-md {
     display: flex;
-    position: sticky;
-    position: sticky;
-    top: 0;
-    background-color: rgb(118, 253, 118);
-    border: 2px solid #51f057;
-  }
+    position: absolute;
+    margin-left: 37%;
+    margin-right: 37%;
+    border: 30px solid rgb(135, 135, 255);
+    background-color: rgb(214, 239, 255);}
+    div {
+        border: 1px solid rgb(0, 0, 0);
+      }
+      
+      table {
+        border-collapse: separate;
+        border-spacing: 0 8px;
+        margin-top: -8px;
+      }
+      
+      td {
+        border: 1px solid rgb(255, 255, 255);
+        border-left-width: 0;
+        min-width: 120px;
+        height: 18px;
+      }
+      
+      td:first-child {
+        border-left-width: 1px;
+      }
