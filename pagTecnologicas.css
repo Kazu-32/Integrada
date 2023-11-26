@@ -1,13 +1,13 @@
 body{
-    background: rgb(59, 99, 180)
+    background: rgb(164, 168, 105)
 }
 .flex-container-md {
     display: flex;
     position: absolute;
     margin-left: 37%;
     margin-right: 37%;
-    border: 30px solid rgb(135, 135, 255);
-    background-color: rgb(214, 239, 255);}
+    border: 30px solid rgb(255, 203, 135);
+    background-color: rgb(255, 184, 154);}
     div {
         border: 1px solid rgb(0, 0, 0);
       }
@@ -27,4 +27,8 @@ body{
       
       td:first-child {
         border-left-width: 1px;
+      }
+      body {
+        font-family: comic sans ms, comic sans;
+        border-style: ridge;
       }

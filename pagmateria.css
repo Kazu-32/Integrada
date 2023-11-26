@@ -9,7 +9,7 @@ body{
     border: 30px solid rgb(135, 135, 255);
     background-color: rgb(214, 239, 255);}
     div {
-        border: 1px solid rgb(0, 0, 0);
+        border: 1px solid rgb(116, 116, 116);
       }
       
       table {
@@ -19,7 +19,7 @@ body{
       }
       
       td {
-        border: 1px solid rgb(255, 255, 255);
+        border: 1px solid rgb(5, 5, 5);
         border-left-width: 0;
         min-width: 120px;
         height: 18px;
@@ -28,3 +28,6 @@ body{
       td:first-child {
         border-left-width: 1px;
       }
+      body {
+        font-family: comic sans ms, comic sans;
+        border-style: ridge;}
