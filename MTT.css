@@ -1,0 +1,6 @@
+body{background: rgb(164, 255, 217);
+    border: 12px solid rgb(83, 200, 255);
+    font-family: comic sans ms, comic sans;
+    border-style: ridge;}
+    body{max-width: fit-content; 
+    max-height: fit-content;}
